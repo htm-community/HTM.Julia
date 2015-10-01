@@ -2,6 +2,8 @@
 ## porting of the HTM algorithms to Julia
 ### Giving my new love some love ;) 
 
+[![Join the chat at https://gitter.im/nupic-community/HMT.Julia](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nupic-community/HMT.Julia?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## [WORK IN PROGRESS]
 
 This aims to be a complete porting of the CLA infrastructure and implementations to [Julia](http://julialang.org).
