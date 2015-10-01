@@ -14,7 +14,7 @@ This will be implemented in such a way that it is easily compatible with the IJu
 
 ## TODOs & Ideas:
 
-- ijnb integration
+- [IJulia](https://github.com/JuliaLang/IJulia.jl) integration
 - ipycluster intigration
 - GPU intigration 
 
