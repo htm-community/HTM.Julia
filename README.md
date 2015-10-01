@@ -17,8 +17,8 @@ This will be implemented in such a way that it is easily compatible with the IJu
 ## TODOs & Ideas:
 
 - [IJulia](https://github.com/JuliaLang/IJulia.jl) integration
-- ipycluster intigration
-- GPU intigration 
+- [Pycluster](https://pypi.python.org/pypi/Pycluster) intigration
+- GPU intigration (like Mocha.jl)
 
 ## Roadmap:
 
